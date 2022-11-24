@@ -33,6 +33,7 @@ Congratulations dearst Mary Smith!!!
 > Who are we not inviting
 - Lord Voldemort
 - Sauron
+- Gargamel
 
 ## TODO (list)
 > What needs to be done before the party

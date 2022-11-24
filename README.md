@@ -10,6 +10,7 @@ Hot chocolate
 
 ## Playlist (list)
 > Songs you want to be played
+
 Macarena
 The Ketchup Song
 Ententanz
@@ -20,6 +21,7 @@ Break your heart
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?
+
 Dancing, Wizard, Clown
 
 ## Invitation letter (text)
@@ -28,6 +30,7 @@ Dancing, Wizard, Clown
 
 ## Invitation list (list)
 > People to be invited
+
 Alfred
 Frau Wegener
 
@@ -37,21 +40,21 @@ Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness and light!:) 
 
 ## Decoration items (list)
-> Super cute kitten-themed balloons
-> Plastic-free, biodegradable vegan confetti  
-> The shiniest party lights you have ever seen
-> Nikolay's latest fancy plots 
+Super cute kitten-themed balloons
+Plastic-free, biodegradable vegan confetti  
+The shiniest party lights you have ever seen
+Nikolay's latest fancy plots 
 
 ## Blacklist (list)
-> Who are we not inviting
-> Lord Voldemort
-> Sauron
-> Gargamel
-> FIFA
-> AWI Potsdam (just joking!)
-> Moriarty
-> Björn Höcke
-> Climate change (on special request by Marylou)
+Who are we not inviting
+Lord Voldemort
+Sauron
+Gargamel
+FIFA
+AWI Potsdam (just joking!)
+Moriarty
+Björn Höcke
+Climate change (on special request by Marylou)
 
 ## TODO (list)
 > What needs to be done before the party

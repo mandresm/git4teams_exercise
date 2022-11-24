@@ -38,6 +38,7 @@ Congratulations dearst Mary Smith!!!
 - AWI Potsdam (just joking!)
 - Moriarty
 - Björn Höcke
+- Climate change (on special request by Marylou)
 
 ## TODO (list)
 > What needs to be done before the party

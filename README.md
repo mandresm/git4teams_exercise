@@ -5,7 +5,7 @@
 Popcorn
 
 ## Drinks (list)
-
+Hot chocolate
 
 ## Playlist (list)
 > Songs you want to be played

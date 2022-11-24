@@ -35,6 +35,7 @@ Congratulations dearst Mary Smith!!!
 - Sauron
 - Gargamel
 - FIFA
+- AWI Potsdam (just joking!)
 
 ## TODO (list)
 > What needs to be done before the party

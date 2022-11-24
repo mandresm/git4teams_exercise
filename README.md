@@ -25,7 +25,7 @@ Hot chocolate
 
 ## Birthday card (text)
 Congratulations dearest Mary Smith!!!
-You are so nice lady!:)
+You are so nice lady!:) I hope your lifepath brings you happiness!:) 
 
 ## Decoration items (list)
 

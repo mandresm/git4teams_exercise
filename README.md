@@ -3,6 +3,7 @@
 
 ## Food (list)
 
+chips
 
 ## Drinks (list)
 
@@ -10,6 +11,7 @@
 ## Playlist (list)
 > Songs you want to be played
 
+- La Macarena
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?

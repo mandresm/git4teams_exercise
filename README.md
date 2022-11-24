@@ -14,7 +14,7 @@ Hot chocolate
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?
-
+Dancing, Wizard, Clown
 
 ## Invitation letter (text)
 > A letter to the people to be invited

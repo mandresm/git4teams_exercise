@@ -16,6 +16,9 @@ Tik Tok
 Hot 'n Cold
 Blue
 Break your heart
+Dancing Queen
+All the small things
+Paradise
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?

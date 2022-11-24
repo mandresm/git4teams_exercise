@@ -28,6 +28,8 @@ Break your heart
 
 ## Invitation list (list)
 > People to be invited
+Alfred
+Frau Wegener
 
 
 ## Birthday card (text)

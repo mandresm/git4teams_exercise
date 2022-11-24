@@ -37,6 +37,7 @@ Congratulations dearst Mary Smith!!!
 - FIFA
 - AWI Potsdam (just joking!)
 - Moriarty
+- Björn Höcke
 
 ## TODO (list)
 > What needs to be done before the party

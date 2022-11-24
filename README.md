@@ -24,7 +24,7 @@ Hot chocolate
 
 
 ## Birthday card (text)
-Congratulations dearst Mary Smith!!!
+Congratulations dearest Mary Smith!!!
 
 ## Decoration items (list)
 

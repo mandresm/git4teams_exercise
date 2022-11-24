@@ -34,6 +34,7 @@ Congratulations dearst Mary Smith!!!
 - Lord Voldemort
 - Sauron
 - Gargamel
+- FIFA
 
 ## TODO (list)
 > What needs to be done before the party

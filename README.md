@@ -10,7 +10,7 @@ Beer\
 Wine\
 and\
 so\
-on\
+on
 
 ## Playlist (list)
 > Songs you want to be played

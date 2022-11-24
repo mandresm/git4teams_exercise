@@ -5,12 +5,12 @@
 Popcorn
 
 ## Drinks (list)
-Hot chocolate
-Beer
-Wine
-and 
-so 
-on
+Hot chocolate\
+Beer\
+Wine\
+and\
+so\
+on\
 
 ## Playlist (list)
 > Songs you want to be played

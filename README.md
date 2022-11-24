@@ -2,7 +2,7 @@
 > Exercise repo for the Git for **teams** workshop https://github.com/esm-tools/workshops/tree/main/202211_AWI_Git
 
 ## Food (list)
-
+lots of cakes 
 
 ## Drinks (list)
 
@@ -13,7 +13,7 @@
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?
-
+Dancing, Wizard, Clown
 
 ## Invitation letter (text)
 > A letter to the people to be invited

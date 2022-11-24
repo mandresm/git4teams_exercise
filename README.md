@@ -33,7 +33,14 @@ You are so nice lady!:) I hope your lifepath brings you happiness!:)
 
 ## Blacklist (list)
 > Who are we not inviting
-
+- Lord Voldemort
+- Sauron
+- Gargamel
+- FIFA
+- AWI Potsdam (just joking!)
+- Moriarty
+- Björn Höcke
+- Climate change (on special request by Marylou)
 
 ## TODO (list)
 > What needs to be done before the party

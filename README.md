@@ -29,6 +29,8 @@
 ## Decoration items (list)
 > Super cute kitten-themed balloons
 > Plastic-free, biodegradable vegan confetti  
+> The shiniest party lights you have ever seen
+> Nikolay's latest fancy plots 
 
 ## Blacklist (list)
 > Who are we not inviting

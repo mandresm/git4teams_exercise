@@ -21,7 +21,8 @@ Hot chocolate
 
 ## Invitation list (list)
 > People to be invited
-
+Alfred
+Frau Wegener
 
 ## Birthday card (text)
 Congratulations dearest Mary Smith!!!

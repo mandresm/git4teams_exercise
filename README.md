@@ -12,6 +12,9 @@ Hot chocolate
 Macarena
 The Ketchup Song
 Ententanz
+Tik Tok
+Hot 'n Cold
+Blue
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?

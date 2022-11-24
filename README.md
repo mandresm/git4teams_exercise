@@ -6,7 +6,7 @@ Tortilla Chips & Guacamole
 Pumpkin Pie Cheescake
 
 ## Drinks (list)
-
+Hot chocolate
 
 ## Playlist (list)
 > Songs you want to be played
@@ -25,7 +25,8 @@ Pumpkin Pie Cheescake
 
 
 ## Birthday card (text)
-> Your congratulations to Mary Smith
+Congratulations dearest Mary Smith!!!
+You are so nice lady!:) I hope your lifepath brings you happiness!:) 
 
 ## Decoration items (list)
 

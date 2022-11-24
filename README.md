@@ -31,7 +31,7 @@ Congratulations dearst Mary Smith!!!
 
 ## Blacklist (list)
 > Who are we not inviting
-
+Lord Voldemort
 
 ## TODO (list)
 > What needs to be done before the party

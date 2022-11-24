@@ -10,7 +10,13 @@ Hot chocolate
 
 ## Playlist (list)
 > Songs you want to be played
-
+Macarena
+The Ketchup Song
+Ententanz
+Tik Tok
+Hot 'n Cold
+Blue
+Break your heart
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?

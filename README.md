@@ -36,6 +36,7 @@ Congratulations dearst Mary Smith!!!
 - Gargamel
 - FIFA
 - AWI Potsdam (just joking!)
+- Moriarty
 
 ## TODO (list)
 > What needs to be done before the party

@@ -27,7 +27,7 @@ Popcorn
 > Your congratulations to Mary Smith
 
 ## Decoration items (list)
-
+Balloons
 
 ## Blacklist (list)
 > Who are we not inviting

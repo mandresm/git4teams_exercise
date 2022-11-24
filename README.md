@@ -31,7 +31,8 @@ Congratulations dearst Mary Smith!!!
 
 ## Blacklist (list)
 > Who are we not inviting
-Lord Voldemort
+- Lord Voldemort
+- Sauron
 
 ## TODO (list)
 > What needs to be done before the party

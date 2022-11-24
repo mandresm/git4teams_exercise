@@ -9,16 +9,16 @@ Hot chocolate
 
 ## Playlist (list)
 > Songs you want to be played
-Macarena
-The Ketchup Song
-Ententanz
-Tik Tok
-Hot 'n Cold
-Blue
-Break your heart
-Dancing Queen
-All the small things
-Paradise
+Macarena (Los del Rio)
+The Ketchup Song (Las Ketchup)
+Ententanz (???)
+Tik Tok (Kesha)
+Hot 'n Cold (Katy Perry)
+Blue (Eiffel 65)
+Break your heart (Taio Cruz)
+Dancing Queen (ABBA)
+All the small things (blink-182)
+Paradise (Coldplay)
 
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?

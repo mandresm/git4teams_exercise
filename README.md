@@ -27,7 +27,8 @@
 > Your congratulations to Mary Smith
 
 ## Decoration items (list)
->
+> Super cute kitten-themed balloons
+> Plastic-free, biodegradable vegan confetti  
 
 ## Blacklist (list)
 > Who are we not inviting

@@ -25,7 +25,7 @@ Break your heart
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?
 
-Dancing, Wizard, Clown
+Dancing, Wizard, Clown, Karaoke
 
 ## Invitation letter (text)
 > A letter to the people to be invited

@@ -55,8 +55,6 @@ Nikolay's latest fancy plots
 
 ## Blacklist (list)
 
-Thomas J.
-Gerrit L.
 Who are we not inviting
 Lord Voldemort
 Sauron

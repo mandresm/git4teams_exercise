@@ -6,6 +6,7 @@ Cake
 chips
 Tortilla Chips & Guacamole 
 Pumpkin Pie Cheescake
+Brownies
 
 ## Drinks (list)
 Hot chocolate

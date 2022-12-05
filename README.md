@@ -9,6 +9,8 @@ Pumpkin Pie Cheescake
 
 ## Drinks (list)
 Hot chocolate
+Beer
+Rebujito
 
 ## Playlist (list)
 > Songs you want to be played

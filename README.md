@@ -6,6 +6,7 @@ Cake
 chips
 Tortilla Chips & Guacamole 
 Pumpkin Pie Cheescake
+Brownies
 
 ## Drinks (list)
 Hot chocolate
@@ -28,7 +29,7 @@ Gasolina
 ## Entertainment (list)
 > Dancefloor? Boardgames? Darts?
 
-Dancing, Wizard, Clown
+Dancing, Wizard, Clown, Karaoke
 
 ## Invitation letter (text)
 > A letter to the people to be invited

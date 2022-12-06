@@ -56,6 +56,7 @@ Nikolay's latest fancy plots
 ## Blacklist (list)
 > Who are we not inviting
 Valentin
+Martina
 
 Who are we not inviting
 Lord Voldemort
@@ -70,4 +71,3 @@ Climate change (on special request by Marylou)
 ## TODO (list)
 > What needs to be done before the party
 
-Hi Martina

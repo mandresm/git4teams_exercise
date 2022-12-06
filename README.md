@@ -33,8 +33,10 @@ Frau Wegener
 
 
 ## Birthday card (text)
+You are the best Mary Smith! Happy Birthday!
 Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness!:) 
+
 
 ## Decoration items (list)
 > Super cute kitten-themed balloons

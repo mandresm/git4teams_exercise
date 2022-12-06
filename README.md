@@ -42,7 +42,7 @@ Alfred
 Frau Wegener
 
 ## Birthday card (text)
-You are the best Mary Smith! Happy Birthday! I hope your party is fun.
+Who does know what the new year brings, but we hope it will be great year!! You are the best Mary Smith! Happy Birthday! I hope your party is fun.
 Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness and light!:) 
 New year of life like a spring should bring the flowers!

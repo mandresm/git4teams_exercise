@@ -4,7 +4,6 @@
 ## Food (list)
 Tortilla Chips & Guacamole 
 Pumpkin Pie Cheescake
-Pizza
 
 ## Drinks (list)
 
@@ -33,6 +32,7 @@ Pizza
 
 ## Blacklist (list)
 > Who are we not inviting
+Valentin
 
 
 ## TODO (list)

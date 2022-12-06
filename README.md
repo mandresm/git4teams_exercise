@@ -31,18 +31,19 @@ Moin
 Alfred
 Frau Wegener
 
-
 ## Birthday card (text)
 You are the best Mary Smith! Happy Birthday!
 Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness!:) 
-
 
 ## Decoration items (list)
 > Super cute kitten-themed balloons
 > Plastic-free, biodegradable vegan confetti  
 > The shiniest party lights you have ever seen
 > Nikolay's latest fancy plots 
+
+## Decoration items (list)
+Balloons
 
 ## Blacklist (list)
 > Who are we not inviting

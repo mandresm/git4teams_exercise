@@ -32,7 +32,7 @@ Alfred
 Frau Wegener
 
 ## Birthday card (text)
-You are the best Mary Smith! Happy Birthday! I hope your party is fun.
+Birthday Brithday birthday!!!
 Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness!:) 
 

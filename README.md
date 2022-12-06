@@ -1,12 +1,10 @@
 # Mary Smith's birthday party
 > Exercise repo for the Git for **teams** workshop https://github.com/esm-tools/workshops/tree/main/202211_AWI_Git
 
-## Food (list)
-Cake
-chips
-Tortilla Chips & Guacamole 
-Pumpkin Pie Cheescake
-Brownies
+## Food (list), need to be VEGAN
+Chips
+Tortilla Chips & Guacamole (is it VEGAN?) 
+Vegan Brownies
 
 ## Drinks (list)
 Hot chocolate

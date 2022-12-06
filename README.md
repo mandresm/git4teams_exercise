@@ -33,6 +33,7 @@ You are so nice lady!:) I hope your lifepath brings you happiness!:)
 
 ## Blacklist (list)
 > Who are we not inviting
+Valentin
 
 
 ## TODO (list)

@@ -52,6 +52,7 @@ Super cute kitten-themed balloons
 Plastic-free, biodegradable vegan confetti  
 The shiniest party lights you have ever seen
 Nikolay's latest fancy plots 
+Shakira poster
 
 ## Blacklist (list)
 

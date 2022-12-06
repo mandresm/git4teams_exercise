@@ -46,6 +46,7 @@ Frau Wegener
 Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness and light!:) 
 New year of life like a spring should bring the flowers!
+I wish you nice trips all over the world!
 
 
 ## Decoration items (list)

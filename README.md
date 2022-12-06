@@ -34,7 +34,7 @@ Dancing, Wizard, Clown, Karaoke
 
 ## Invitation letter (text)
 > A letter to the people to be invited
-
+Moin
 
 ## Invitation list (list)
 > People to be invited
@@ -42,10 +42,18 @@ Dancing, Wizard, Clown, Karaoke
 Alfred
 Frau Wegener
 
-
 ## Birthday card (text)
+Birthddddaaaaaaaaaaaaaayyyyyyy
+Birthday Brithday birthday!!!
+
+Who does know what the new year brings, but we hope it will be great year!! You are the best Mary Smith! Happy Birthday! I hope your party is fun.
+
 Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness and light!:) 
+New year of life like a spring should bring the flowers!
+
+
+I wish you nice trips all over the world!
 
 
 ## Decoration items (list)
@@ -55,6 +63,9 @@ The shiniest/carbon-free party lights you have ever seen
 Nikolay's latest fancy plots 
 Shakira poster
 Disco ball
+
+## Decoration items (list)
+Balloons
 
 ## Blacklist (list)
 > Who are we not inviting

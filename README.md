@@ -4,6 +4,7 @@
 ## Food (list)
 Tortilla Chips & Guacamole 
 Pumpkin Pie Cheescake
+Pizza
 
 ## Drinks (list)
 Hot chocolate

@@ -50,10 +50,9 @@ You are so nice lady!:) I hope your lifepath brings you happiness and light!:)
 
 
 ## Decoration items (list)
-Super cute kitten-themed balloons
-Plastic-free, biodegradable vegan confetti  
-The shiniest party lights you have ever seen
-Nikolay's latest fancy plots 
+Plastic-free, biodegradable vegan confetti and thing  
+The shiniest/carbon-free party lights you have ever seen
+Nikolay's latest fancy plots everywhere 
 
 ## Blacklist (list)
 

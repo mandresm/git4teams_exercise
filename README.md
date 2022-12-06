@@ -54,6 +54,8 @@ The shiniest party lights you have ever seen
 Nikolay's latest fancy plots 
 
 ## Blacklist (list)
+> Who are we not inviting
+Valentin
 
 Who are we not inviting
 Lord Voldemort

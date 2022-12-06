@@ -7,6 +7,8 @@ chips
 Tortilla Chips & Guacamole 
 Pumpkin Pie Cheescake
 Brownies
+Veggies&Dip
+
 
 ## Drinks (list)
 Hot chocolate
@@ -50,7 +52,7 @@ You are so nice lady!:) I hope your lifepath brings you happiness and light!:)
 ## Decoration items (list)
 Super cute kitten-themed balloons
 Plastic-free, biodegradable vegan confetti  
-The shiniest party lights you have ever seen
+The shiniest/carbon-free party lights you have ever seen
 Nikolay's latest fancy plots 
 Shakira poster
 Disco ball

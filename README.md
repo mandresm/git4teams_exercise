@@ -63,8 +63,6 @@ The shiniest/carbon-free party lights you have ever seen
 Nikolay's latest fancy plots 
 Shakira poster
 Disco ball
-
-## Decoration items (list)
 Balloons
 
 ## Blacklist (list)

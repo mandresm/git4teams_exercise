@@ -53,6 +53,7 @@ Plastic-free, biodegradable vegan confetti
 The shiniest party lights you have ever seen
 Nikolay's latest fancy plots 
 Shakira poster
+Disco ball
 
 ## Blacklist (list)
 

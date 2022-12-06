@@ -45,6 +45,7 @@ Frau Wegener
 ## Birthday card (text)
 Congratulations dearest Mary Smith!!!
 You are so nice lady!:) I hope your lifepath brings you happiness and light!:) 
+New year of life like a spring should bring the flowers!
 
 
 ## Decoration items (list)
